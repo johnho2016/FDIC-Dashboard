@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Quick visualization prototype</title>
+    <meta charset="UTF-8">
+    <link href="bootstrap.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="dc.css"/>
+	<script type="text/javascript" src="d3.js"></script>
+	<script type="text/javascript" src="crossfilter.js"></script>
+	<script type="text/javascript" src="dc.js"></script>
+</head>
+<body>
+<div class="container">
+
+    <div class="clearfix"></div>
+    <div id="insitution-chart">
+        <strong>Insitution</strong>
+        <a class="reset" href="javascript:InsitutionChart.filterAll();dc.redrawAll();" style="display: none;">reset</a>
+        <div class="clearfix"></div>
+    </div>
+ 
+    <div>
+        <a href="javascript:dc.filterAll(); dc.renderAll();">Reset All</a>
+    </div>
+
+</div>
+<script type="text/javascript">
+    var numberFormat = d3.format(".2f");
+	var InsitutionChart = dc.pieChart("#insitution-chart");
+
+
+    d3.csv("fdic_stats.csv", function (data) {
+		data.forEach(function(d){ 
+			d.year = +d.year;
+			d.value = +d.value;
+			});
+		
+        var fdic = crossfilter(data);
+
+		var category = fdic.dimension(function (d){ return d["category"];});
+		
+        var insitutions = fdic.dimension(function (d) {return d["institution"];});
+		
+		var value = insitutions.group().reduceSum(function(d) { return d.value;});
+			
+		InsitutionChart.width(360)
+		  .height(360)
+		  .radius(160)
+		  .innerRadius(80)
+		  .dimension(insitutions)
+		  .group(value)
+		  .renderLabel(true);
+
+	dc.renderAll();
+	});
+</script>
+
+</body>
+</html>

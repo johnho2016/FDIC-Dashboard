@@ -1,0 +1,769 @@
+category,year,quarter,value,institution
+Bank Net Income (QTR),2009,3,0.416,Credit Card Lenders
+Bank Net Income (QTR),2009,4,0.697,Credit Card Lenders
+Bank Net Income (QTR),2010,1,1.071,Credit Card Lenders
+Bank Net Income (QTR),2010,2,2.582,Credit Card Lenders
+Bank Net Income (QTR),2010,3,-6.852,Credit Card Lenders
+Bank Net Income (QTR),2010,4,4.847,Credit Card Lenders
+Bank Net Income (QTR),2011,1,6.364,Credit Card Lenders
+Bank Net Income (QTR),2011,2,6.639,Credit Card Lenders
+Bank Net Income (QTR),2011,3,4.056,Credit Card Lenders
+Bank Net Income (QTR),2011,4,4.197,Credit Card Lenders
+Bank Net Income (QTR),2012,1,4.709,Credit Card Lenders
+Bank Net Income (QTR),2012,2,4.183,Credit Card Lenders
+Bank Net Income (QTR),2012,3,4.58,Credit Card Lenders
+Bank Net Income (QTR),2012,4,4.551,Credit Card Lenders
+Bank Net Income (QTR),2013,1,4.625,Credit Card Lenders
+Bank Net Income (QTR),2013,2,4.857,Credit Card Lenders
+Bank Net Income (QTR),2013,3,5.022,Credit Card Lenders
+Bank Net Income (QTR),2013,4,5.441,Credit Card Lenders
+Bank Net Income (QTR),2014,1,5.143,Credit Card Lenders
+Bank Net Income (QTR),2014,2,4.515,Credit Card Lenders
+Bank Net Income (QTR),2014,3,4.674,Credit Card Lenders
+Bank Net Income (QTR),2014,4,3.702,Credit Card Lenders
+Bank Net Income (QTR),2015,1,3.703,Credit Card Lenders
+Bank Net Income (QTR),2015,2,3.609,Credit Card Lenders
+Bank Net Income (QTR),2015,3,3.647,Credit Card Lenders
+Bank Net Income (QTR),2015,4,3.557,Credit Card Lenders
+Bank Net Income (QTR),2016,1,3.75,Credit Card Lenders
+Bank Net Income (QTR),2016,2,2.809,Credit Card Lenders
+Bank Net Income (QTR),2016,3,2.833,Credit Card Lenders
+Bank Net Income (QTR),2016,4,2.815,Credit Card Lenders
+Bank Net Income (QTR),2017,1,2.655,Credit Card Lenders
+Bank Net Income (QTR),2017,2,2.569,Credit Card Lenders
+Domestic Deposits,2009,3,226,Credit Card Lenders
+Domestic Deposits,2009,4,241,Credit Card Lenders
+Domestic Deposits,2010,1,245,Credit Card Lenders
+Domestic Deposits,2010,2,242,Credit Card Lenders
+Domestic Deposits,2010,3,251,Credit Card Lenders
+Domestic Deposits,2010,4,267,Credit Card Lenders
+Domestic Deposits,2011,1,267,Credit Card Lenders
+Domestic Deposits,2011,2,230,Credit Card Lenders
+Domestic Deposits,2011,3,231,Credit Card Lenders
+Domestic Deposits,2011,4,248,Credit Card Lenders
+Domestic Deposits,2012,1,276,Credit Card Lenders
+Domestic Deposits,2012,2,288,Credit Card Lenders
+Domestic Deposits,2012,3,291,Credit Card Lenders
+Domestic Deposits,2012,4,313,Credit Card Lenders
+Domestic Deposits,2013,1,309,Credit Card Lenders
+Domestic Deposits,2013,2,308,Credit Card Lenders
+Domestic Deposits,2013,3,313,Credit Card Lenders
+Domestic Deposits,2013,4,323,Credit Card Lenders
+Domestic Deposits,2014,1,327,Credit Card Lenders
+Domestic Deposits,2014,2,330,Credit Card Lenders
+Domestic Deposits,2014,3,323,Credit Card Lenders
+Domestic Deposits,2014,4,250,Credit Card Lenders
+Domestic Deposits,2015,1,267,Credit Card Lenders
+Domestic Deposits,2015,2,280,Credit Card Lenders
+Domestic Deposits,2015,3,294,Credit Card Lenders
+Domestic Deposits,2015,4,317,Credit Card Lenders
+Domestic Deposits,2016,1,311,Credit Card Lenders
+Domestic Deposits,2016,2,280,Credit Card Lenders
+Domestic Deposits,2016,3,254,Credit Card Lenders
+Domestic Deposits,2016,4,274,Credit Card Lenders
+Domestic Deposits,2017,1,271,Credit Card Lenders
+Domestic Deposits,2017,2,273,Credit Card Lenders
+Total Assets ,2009,3,500,Credit Card Lenders
+Total Assets ,2009,4,522,Credit Card Lenders
+Total Assets ,2010,1,745,Credit Card Lenders
+Total Assets ,2010,2,718,Credit Card Lenders
+Total Assets ,2010,3,705,Credit Card Lenders
+Total Assets ,2010,4,705,Credit Card Lenders
+Total Assets ,2011,1,676,Credit Card Lenders
+Total Assets ,2011,2,656,Credit Card Lenders
+Total Assets ,2011,3,532,Credit Card Lenders
+Total Assets ,2011,4,539,Credit Card Lenders
+Total Assets ,2012,1,559,Credit Card Lenders
+Total Assets ,2012,2,567,Credit Card Lenders
+Total Assets ,2012,3,580,Credit Card Lenders
+Total Assets ,2012,4,601,Credit Card Lenders
+Total Assets ,2013,1,594,Credit Card Lenders
+Total Assets ,2013,2,590,Credit Card Lenders
+Total Assets ,2013,3,596,Credit Card Lenders
+Total Assets ,2013,4,591,Credit Card Lenders
+Total Assets ,2014,1,592,Credit Card Lenders
+Total Assets ,2014,2,601,Credit Card Lenders
+Total Assets ,2014,3,605,Credit Card Lenders
+Total Assets ,2014,4,484,Credit Card Lenders
+Total Assets ,2015,1,490,Credit Card Lenders
+Total Assets ,2015,2,510,Credit Card Lenders
+Total Assets ,2015,3,520,Credit Card Lenders
+Total Assets ,2015,4,549,Credit Card Lenders
+Total Assets ,2016,1,540,Credit Card Lenders
+Total Assets ,2016,2,502,Credit Card Lenders
+Total Assets ,2016,3,501,Credit Card Lenders
+Total Assets ,2016,4,519,Credit Card Lenders
+Total Assets ,2017,1,506,Credit Card Lenders
+Total Assets ,2017,2,506,Credit Card Lenders
+Total Loans,2009,3,340,Credit Card Lenders
+Total Loans,2009,4,359,Credit Card Lenders
+Total Loans,2010,1,641,Credit Card Lenders
+Total Loans,2010,2,600,Credit Card Lenders
+Total Loans,2010,3,600,Credit Card Lenders
+Total Loans,2010,4,610,Credit Card Lenders
+Total Loans,2011,1,575,Credit Card Lenders
+Total Loans,2011,2,557,Credit Card Lenders
+Total Loans,2011,3,439,Credit Card Lenders
+Total Loans,2011,4,444,Credit Card Lenders
+Total Loans,2012,1,450,Credit Card Lenders
+Total Loans,2012,2,462,Credit Card Lenders
+Total Loans,2012,3,463,Credit Card Lenders
+Total Loans,2012,4,479,Credit Card Lenders
+Total Loans,2013,1,452,Credit Card Lenders
+Total Loans,2013,2,460,Credit Card Lenders
+Total Loans,2013,3,466,Credit Card Lenders
+Total Loans,2013,4,469,Credit Card Lenders
+Total Loans,2014,1,453,Credit Card Lenders
+Total Loans,2014,2,468,Credit Card Lenders
+Total Loans,2014,3,477,Credit Card Lenders
+Total Loans,2014,4,387,Credit Card Lenders
+Total Loans,2015,1,375,Credit Card Lenders
+Total Loans,2015,2,390,Credit Card Lenders
+Total Loans,2015,3,400,Credit Card Lenders
+Total Loans,2015,4,425,Credit Card Lenders
+Total Loans,2016,1,409,Credit Card Lenders
+Total Loans,2016,2,382,Credit Card Lenders
+Total Loans,2016,3,394,Credit Card Lenders
+Total Loans,2016,4,418,Credit Card Lenders
+Total Loans,2017,1,396,Credit Card Lenders
+Total Loans,2017,2,402,Credit Card Lenders
+Bank Net Income (QTR),2009,3,-0.31,International Banks
+Bank Net Income (QTR),2009,4,2.307,International Banks
+Bank Net Income (QTR),2010,1,5.842,International Banks
+Bank Net Income (QTR),2010,2,7.737,International Banks
+Bank Net Income (QTR),2010,3,5.037,International Banks
+Bank Net Income (QTR),2010,4,4.593,International Banks
+Bank Net Income (QTR),2011,1,4.643,International Banks
+Bank Net Income (QTR),2011,2,3.729,International Banks
+Bank Net Income (QTR),2011,3,9.761,International Banks
+Bank Net Income (QTR),2011,4,5.198,International Banks
+Bank Net Income (QTR),2012,1,7.814,International Banks
+Bank Net Income (QTR),2012,2,6.506,International Banks
+Bank Net Income (QTR),2012,3,9.249,International Banks
+Bank Net Income (QTR),2012,4,6.667,International Banks
+Bank Net Income (QTR),2013,1,9.072,International Banks
+Bank Net Income (QTR),2013,2,9.329,International Banks
+Bank Net Income (QTR),2013,3,4.791,International Banks
+Bank Net Income (QTR),2013,4,8.59,International Banks
+Bank Net Income (QTR),2014,1,7.172,International Banks
+Bank Net Income (QTR),2014,2,8.229,International Banks
+Bank Net Income (QTR),2014,3,7.273,International Banks
+Bank Net Income (QTR),2014,4,4.83,International Banks
+Bank Net Income (QTR),2015,1,8.637,International Banks
+Bank Net Income (QTR),2015,2,8.952,International Banks
+Bank Net Income (QTR),2015,3,8.114,International Banks
+Bank Net Income (QTR),2015,4,7.829,International Banks
+Bank Net Income (QTR),2016,1,8.195,International Banks
+Bank Net Income (QTR),2016,2,9.485,International Banks
+Bank Net Income (QTR),2016,3,9.274,International Banks
+Bank Net Income (QTR),2016,4,10.528,International Banks
+Bank Net Income (QTR),2017,1,9.356,International Banks
+Bank Net Income (QTR),2017,2,9.866,International Banks
+Domestic Deposits,2009,3,946,International Banks
+Domestic Deposits,2009,4,962,International Banks
+Domestic Deposits,2010,1,964,International Banks
+Domestic Deposits,2010,2,977,International Banks
+Domestic Deposits,2010,3,"1,006",International Banks
+Domestic Deposits,2010,4,"1,011",International Banks
+Domestic Deposits,2011,1,"1,045",International Banks
+Domestic Deposits,2011,2,"1,182",International Banks
+Domestic Deposits,2011,3,"1,309",International Banks
+Domestic Deposits,2011,4,"1,359",International Banks
+Domestic Deposits,2012,1,"1,371",International Banks
+Domestic Deposits,2012,2,"1,423",International Banks
+Domestic Deposits,2012,3,"1,447",International Banks
+Domestic Deposits,2012,4,"1,555",International Banks
+Domestic Deposits,2013,1,"1,545",International Banks
+Domestic Deposits,2013,2,"1,508",International Banks
+Domestic Deposits,2013,3,"1,577",International Banks
+Domestic Deposits,2013,4,"1,621",International Banks
+Domestic Deposits,2014,1,"1,622",International Banks
+Domestic Deposits,2014,2,"1,668",International Banks
+Domestic Deposits,2014,3,"1,633",International Banks
+Domestic Deposits,2014,4,"1,708",International Banks
+Domestic Deposits,2015,1,"1,755",International Banks
+Domestic Deposits,2015,2,"1,710",International Banks
+Domestic Deposits,2015,3,"1,726",International Banks
+Domestic Deposits,2015,4,"1,756",International Banks
+Domestic Deposits,2016,1,"1,854",International Banks
+Domestic Deposits,2016,2,"1,853",International Banks
+Domestic Deposits,2016,3,"1,972",International Banks
+Domestic Deposits,2016,4,"1,951",International Banks
+Domestic Deposits,2017,1,"1,940",International Banks
+Domestic Deposits,2017,2,"1,987",International Banks
+Total Assets ,2009,3,"3,183",International Banks
+Total Assets ,2009,4,"3,107",International Banks
+Total Assets ,2010,1,"3,157",International Banks
+Total Assets ,2010,2,"3,059",International Banks
+Total Assets ,2010,3,"3,278",International Banks
+Total Assets ,2010,4,"3,038",International Banks
+Total Assets ,2011,1,"3,165",International Banks
+Total Assets ,2011,2,"3,328",International Banks
+Total Assets ,2011,3,"3,665",International Banks
+Total Assets ,2011,4,"3,456",International Banks
+Total Assets ,2012,1,"3,661",International Banks
+Total Assets ,2012,2,"3,711",International Banks
+Total Assets ,2012,3,"3,774",International Banks
+Total Assets ,2012,4,"3,808",International Banks
+Total Assets ,2013,1,"3,839",International Banks
+Total Assets ,2013,2,"3,645",International Banks
+Total Assets ,2013,3,"3,722",International Banks
+Total Assets ,2013,4,"3,691",International Banks
+Total Assets ,2014,1,"3,715",International Banks
+Total Assets ,2014,2,"3,795",International Banks
+Total Assets ,2014,3,"3,691",International Banks
+Total Assets ,2014,4,"3,736",International Banks
+Total Assets ,2015,1,"3,855",International Banks
+Total Assets ,2015,2,"3,747",International Banks
+Total Assets ,2015,3,"3,837",International Banks
+Total Assets ,2015,4,"3,775",International Banks
+Total Assets ,2016,1,"4,015",International Banks
+Total Assets ,2016,2,"3,967",International Banks
+Total Assets ,2016,3,"4,146",International Banks
+Total Assets ,2016,4,"4,053",International Banks
+Total Assets ,2017,1,"4,001",International Banks
+Total Assets ,2017,2,"4,194",International Banks
+Total Loans,2009,3,"1,133",International Banks
+Total Loans,2009,4,"1,084",International Banks
+Total Loans,2010,1,"1,112",International Banks
+Total Loans,2010,2,"1,090",International Banks
+Total Loans,2010,3,"1,104",International Banks
+Total Loans,2010,4,"1,050",International Banks
+Total Loans,2011,1,"1,053",International Banks
+Total Loans,2011,2,"1,121",International Banks
+Total Loans,2011,3,"1,214",International Banks
+Total Loans,2011,4,"1,251",International Banks
+Total Loans,2012,1,"1,261",International Banks
+Total Loans,2012,2,"1,280",International Banks
+Total Loans,2012,3,"1,281",International Banks
+Total Loans,2012,4,"1,296",International Banks
+Total Loans,2013,1,"1,290",International Banks
+Total Loans,2013,2,"1,276",International Banks
+Total Loans,2013,3,"1,287",International Banks
+Total Loans,2013,4,"1,299",International Banks
+Total Loans,2014,1,"1,300",International Banks
+Total Loans,2014,2,"1,325",International Banks
+Total Loans,2014,3,"1,275",International Banks
+Total Loans,2014,4,"1,283",International Banks
+Total Loans,2015,1,"1,318",International Banks
+Total Loans,2015,2,"1,353",International Banks
+Total Loans,2015,3,"1,353",International Banks
+Total Loans,2015,4,"1,378",International Banks
+Total Loans,2016,1,"1,430",International Banks
+Total Loans,2016,2,"1,441",International Banks
+Total Loans,2016,3,"1,490",International Banks
+Total Loans,2016,4,"1,476",International Banks
+Total Loans,2017,1,"1,450",International Banks
+Total Loans,2017,2,"1,516",International Banks
+Bank Net Income (QTR),2009,3,0.419,Agricultural Banks
+Bank Net Income (QTR),2009,4,0.261,Agricultural Banks
+Bank Net Income (QTR),2010,1,0.438,Agricultural Banks
+Bank Net Income (QTR),2010,2,0.489,Agricultural Banks
+Bank Net Income (QTR),2010,3,0.525,Agricultural Banks
+Bank Net Income (QTR),2010,4,0.435,Agricultural Banks
+Bank Net Income (QTR),2011,1,0.524,Agricultural Banks
+Bank Net Income (QTR),2011,2,0.577,Agricultural Banks
+Bank Net Income (QTR),2011,3,0.657,Agricultural Banks
+Bank Net Income (QTR),2011,4,0.56,Agricultural Banks
+Bank Net Income (QTR),2012,1,0.667,Agricultural Banks
+Bank Net Income (QTR),2012,2,0.704,Agricultural Banks
+Bank Net Income (QTR),2012,3,0.759,Agricultural Banks
+Bank Net Income (QTR),2012,4,0.665,Agricultural Banks
+Bank Net Income (QTR),2013,1,0.657,Agricultural Banks
+Bank Net Income (QTR),2013,2,0.717,Agricultural Banks
+Bank Net Income (QTR),2013,3,0.756,Agricultural Banks
+Bank Net Income (QTR),2013,4,0.703,Agricultural Banks
+Bank Net Income (QTR),2014,1,0.682,Agricultural Banks
+Bank Net Income (QTR),2014,2,0.752,Agricultural Banks
+Bank Net Income (QTR),2014,3,0.811,Agricultural Banks
+Bank Net Income (QTR),2014,4,0.741,Agricultural Banks
+Bank Net Income (QTR),2015,1,0.746,Agricultural Banks
+Bank Net Income (QTR),2015,2,0.78,Agricultural Banks
+Bank Net Income (QTR),2015,3,0.252,Agricultural Banks
+Bank Net Income (QTR),2015,4,0.774,Agricultural Banks
+Bank Net Income (QTR),2016,1,0.838,Agricultural Banks
+Bank Net Income (QTR),2016,2,0.829,Agricultural Banks
+Bank Net Income (QTR),2016,3,0.88,Agricultural Banks
+Bank Net Income (QTR),2016,4,0.775,Agricultural Banks
+Bank Net Income (QTR),2017,1,0.798,Agricultural Banks
+Bank Net Income (QTR),2017,2,0.865,Agricultural Banks
+Domestic Deposits,2009,3,143,Agricultural Banks
+Domestic Deposits,2009,4,149,Agricultural Banks
+Domestic Deposits,2010,1,149,Agricultural Banks
+Domestic Deposits,2010,2,155,Agricultural Banks
+Domestic Deposits,2010,3,159,Agricultural Banks
+Domestic Deposits,2010,4,166,Agricultural Banks
+Domestic Deposits,2011,1,168,Agricultural Banks
+Domestic Deposits,2011,2,170,Agricultural Banks
+Domestic Deposits,2011,3,173,Agricultural Banks
+Domestic Deposits,2011,4,180,Agricultural Banks
+Domestic Deposits,2012,1,177,Agricultural Banks
+Domestic Deposits,2012,2,182,Agricultural Banks
+Domestic Deposits,2012,3,185,Agricultural Banks
+Domestic Deposits,2012,4,200,Agricultural Banks
+Domestic Deposits,2013,1,194,Agricultural Banks
+Domestic Deposits,2013,2,196,Agricultural Banks
+Domestic Deposits,2013,3,202,Agricultural Banks
+Domestic Deposits,2013,4,218,Agricultural Banks
+Domestic Deposits,2014,1,207,Agricultural Banks
+Domestic Deposits,2014,2,208,Agricultural Banks
+Domestic Deposits,2014,3,209,Agricultural Banks
+Domestic Deposits,2014,4,227,Agricultural Banks
+Domestic Deposits,2015,1,213,Agricultural Banks
+Domestic Deposits,2015,2,213,Agricultural Banks
+Domestic Deposits,2015,3,225,Agricultural Banks
+Domestic Deposits,2015,4,230,Agricultural Banks
+Domestic Deposits,2016,1,229,Agricultural Banks
+Domestic Deposits,2016,2,223,Agricultural Banks
+Domestic Deposits,2016,3,224,Agricultural Banks
+Domestic Deposits,2016,4,236,Agricultural Banks
+Domestic Deposits,2017,1,225,Agricultural Banks
+Domestic Deposits,2017,2,231,Agricultural Banks
+Total Assets ,2009,3,177,Agricultural Banks
+Total Assets ,2009,4,182,Agricultural Banks
+Total Assets ,2010,1,181,Agricultural Banks
+Total Assets ,2010,2,189,Agricultural Banks
+Total Assets ,2010,3,194,Agricultural Banks
+Total Assets ,2010,4,200,Agricultural Banks
+Total Assets ,2011,1,200,Agricultural Banks
+Total Assets ,2011,2,204,Agricultural Banks
+Total Assets ,2011,3,209,Agricultural Banks
+Total Assets ,2011,4,216,Agricultural Banks
+Total Assets ,2012,1,212,Agricultural Banks
+Total Assets ,2012,2,220,Agricultural Banks
+Total Assets ,2012,3,224,Agricultural Banks
+Total Assets ,2012,4,240,Agricultural Banks
+Total Assets ,2013,1,231,Agricultural Banks
+Total Assets ,2013,2,236,Agricultural Banks
+Total Assets ,2013,3,244,Agricultural Banks
+Total Assets ,2013,4,262,Agricultural Banks
+Total Assets ,2014,1,245,Agricultural Banks
+Total Assets ,2014,2,251,Agricultural Banks
+Total Assets ,2014,3,254,Agricultural Banks
+Total Assets ,2014,4,273,Agricultural Banks
+Total Assets ,2015,1,255,Agricultural Banks
+Total Assets ,2015,2,258,Agricultural Banks
+Total Assets ,2015,3,275,Agricultural Banks
+Total Assets ,2015,4,278,Agricultural Banks
+Total Assets ,2016,1,276,Agricultural Banks
+Total Assets ,2016,2,271,Agricultural Banks
+Total Assets ,2016,3,273,Agricultural Banks
+Total Assets ,2016,4,285,Agricultural Banks
+Total Assets ,2017,1,270,Agricultural Banks
+Total Assets ,2017,2,281,Agricultural Banks
+Total Loans,2009,3,118,Agricultural Banks
+Total Loans,2009,4,118,Agricultural Banks
+Total Loans,2010,1,116,Agricultural Banks
+Total Loans,2010,2,122,Agricultural Banks
+Total Loans,2010,3,125,Agricultural Banks
+Total Loans,2010,4,126,Agricultural Banks
+Total Loans,2011,1,121,Agricultural Banks
+Total Loans,2011,2,125,Agricultural Banks
+Total Loans,2011,3,128,Agricultural Banks
+Total Loans,2011,4,130,Agricultural Banks
+Total Loans,2012,1,125,Agricultural Banks
+Total Loans,2012,2,134,Agricultural Banks
+Total Loans,2012,3,137,Agricultural Banks
+Total Loans,2012,4,145,Agricultural Banks
+Total Loans,2013,1,135,Agricultural Banks
+Total Loans,2013,2,145,Agricultural Banks
+Total Loans,2013,3,152,Agricultural Banks
+Total Loans,2013,4,164,Agricultural Banks
+Total Loans,2014,1,150,Agricultural Banks
+Total Loans,2014,2,158,Agricultural Banks
+Total Loans,2014,3,163,Agricultural Banks
+Total Loans,2014,4,176,Agricultural Banks
+Total Loans,2015,1,160,Agricultural Banks
+Total Loans,2015,2,168,Agricultural Banks
+Total Loans,2015,3,182,Agricultural Banks
+Total Loans,2015,4,184,Agricultural Banks
+Total Loans,2016,1,183,Agricultural Banks
+Total Loans,2016,2,182,Agricultural Banks
+Total Loans,2016,3,185,Agricultural Banks
+Total Loans,2016,4,191,Agricultural Banks
+Total Loans,2017,1,179,Agricultural Banks
+Total Loans,2017,2,191,Agricultural Banks
+Bank Net Income (QTR),2009,3,-3.318,Commercial Lenders
+Bank Net Income (QTR),2009,4,-6.94,Commercial Lenders
+Bank Net Income (QTR),2010,1,2.084,Commercial Lenders
+Bank Net Income (QTR),2010,2,2.271,Commercial Lenders
+Bank Net Income (QTR),2010,3,4.049,Commercial Lenders
+Bank Net Income (QTR),2010,4,2.568,Commercial Lenders
+Bank Net Income (QTR),2011,1,6.283,Commercial Lenders
+Bank Net Income (QTR),2011,2,7.493,Commercial Lenders
+Bank Net Income (QTR),2011,3,7.991,Commercial Lenders
+Bank Net Income (QTR),2011,4,4.597,Commercial Lenders
+Bank Net Income (QTR),2012,1,8.513,Commercial Lenders
+Bank Net Income (QTR),2012,2,10.008,Commercial Lenders
+Bank Net Income (QTR),2012,3,9.421,Commercial Lenders
+Bank Net Income (QTR),2012,4,9.621,Commercial Lenders
+Bank Net Income (QTR),2013,1,9.433,Commercial Lenders
+Bank Net Income (QTR),2013,2,12.688,Commercial Lenders
+Bank Net Income (QTR),2013,3,11.721,Commercial Lenders
+Bank Net Income (QTR),2013,4,12.064,Commercial Lenders
+Bank Net Income (QTR),2014,1,11.724,Commercial Lenders
+Bank Net Income (QTR),2014,2,12.658,Commercial Lenders
+Bank Net Income (QTR),2014,3,12.217,Commercial Lenders
+Bank Net Income (QTR),2014,4,11.554,Commercial Lenders
+Bank Net Income (QTR),2015,1,11.115,Commercial Lenders
+Bank Net Income (QTR),2015,2,12.418,Commercial Lenders
+Bank Net Income (QTR),2015,3,13.55,Commercial Lenders
+Bank Net Income (QTR),2015,4,13.226,Commercial Lenders
+Bank Net Income (QTR),2016,1,12.899,Commercial Lenders
+Bank Net Income (QTR),2016,2,15.768,Commercial Lenders
+Bank Net Income (QTR),2016,3,14.147,Commercial Lenders
+Bank Net Income (QTR),2016,4,13.259,Commercial Lenders
+Bank Net Income (QTR),2017,1,14.046,Commercial Lenders
+Bank Net Income (QTR),2017,2,15.904,Commercial Lenders
+Domestic Deposits,2009,3,"3,717",Commercial Lenders
+Domestic Deposits,2009,4,"3,377",Commercial Lenders
+Domestic Deposits,2010,1,"3,352",Commercial Lenders
+Domestic Deposits,2010,2,"3,257",Commercial Lenders
+Domestic Deposits,2010,3,"3,284",Commercial Lenders
+Domestic Deposits,2010,4,"3,090",Commercial Lenders
+Domestic Deposits,2011,1,"3,109",Commercial Lenders
+Domestic Deposits,2011,2,"3,144",Commercial Lenders
+Domestic Deposits,2011,3,"3,183",Commercial Lenders
+Domestic Deposits,2011,4,"3,132",Commercial Lenders
+Domestic Deposits,2012,1,"3,140",Commercial Lenders
+Domestic Deposits,2012,2,"3,201",Commercial Lenders
+Domestic Deposits,2012,3,"3,187",Commercial Lenders
+Domestic Deposits,2012,4,"3,373",Commercial Lenders
+Domestic Deposits,2013,1,"3,305",Commercial Lenders
+Domestic Deposits,2013,2,"3,572",Commercial Lenders
+Domestic Deposits,2013,3,"3,701",Commercial Lenders
+Domestic Deposits,2013,4,"3,796",Commercial Lenders
+Domestic Deposits,2014,1,"3,845",Commercial Lenders
+Domestic Deposits,2014,2,"3,872",Commercial Lenders
+Domestic Deposits,2014,3,"3,975",Commercial Lenders
+Domestic Deposits,2014,4,"3,769",Commercial Lenders
+Domestic Deposits,2015,1,"3,832",Commercial Lenders
+Domestic Deposits,2015,2,"4,003",Commercial Lenders
+Domestic Deposits,2015,3,"4,232",Commercial Lenders
+Domestic Deposits,2015,4,"4,523",Commercial Lenders
+Domestic Deposits,2016,1,"4,443",Commercial Lenders
+Domestic Deposits,2016,2,"4,603",Commercial Lenders
+Domestic Deposits,2016,3,"4,449",Commercial Lenders
+Domestic Deposits,2016,4,"4,417",Commercial Lenders
+Domestic Deposits,2017,1,"4,525",Commercial Lenders
+Domestic Deposits,2017,2,"4,618",Commercial Lenders
+Total Assets ,2009,3,"5,185",Commercial Lenders
+Total Assets ,2009,4,"4,550",Commercial Lenders
+Total Assets ,2010,1,"4,498",Commercial Lenders
+Total Assets ,2010,2,"4,358",Commercial Lenders
+Total Assets ,2010,3,"4,442",Commercial Lenders
+Total Assets ,2010,4,"4,099",Commercial Lenders
+Total Assets ,2011,1,"4,087",Commercial Lenders
+Total Assets ,2011,2,"4,136",Commercial Lenders
+Total Assets ,2011,3,"4,171",Commercial Lenders
+Total Assets ,2011,4,"4,083",Commercial Lenders
+Total Assets ,2012,1,"4,070",Commercial Lenders
+Total Assets ,2012,2,"4,160",Commercial Lenders
+Total Assets ,2012,3,"4,126",Commercial Lenders
+Total Assets ,2012,4,"4,339",Commercial Lenders
+Total Assets ,2013,1,"4,224",Commercial Lenders
+Total Assets ,2013,2,"4,625",Commercial Lenders
+Total Assets ,2013,3,"4,774",Commercial Lenders
+Total Assets ,2013,4,"4,922",Commercial Lenders
+Total Assets ,2014,1,"4,977",Commercial Lenders
+Total Assets ,2014,2,"5,060",Commercial Lenders
+Total Assets ,2014,3,"5,187",Commercial Lenders
+Total Assets ,2014,4,"4,878",Commercial Lenders
+Total Assets ,2015,1,"4,927",Commercial Lenders
+Total Assets ,2015,2,"5,194",Commercial Lenders
+Total Assets ,2015,3,"5,509",Commercial Lenders
+Total Assets ,2015,4,"5,893",Commercial Lenders
+Total Assets ,2016,1,"5,742",Commercial Lenders
+Total Assets ,2016,2,"5,987",Commercial Lenders
+Total Assets ,2016,3,"5,679",Commercial Lenders
+Total Assets ,2016,4,"5,629",Commercial Lenders
+Total Assets ,2017,1,"5,732",Commercial Lenders
+Total Assets ,2017,2,"5,909",Commercial Lenders
+Total Loans,2009,3,"3,575",Commercial Lenders
+Total Loans,2009,4,"3,129",Commercial Lenders
+Total Loans,2010,1,"3,064",Commercial Lenders
+Total Loans,2010,2,"2,960",Commercial Lenders
+Total Loans,2010,3,"3,016",Commercial Lenders
+Total Loans,2010,4,"2,784",Commercial Lenders
+Total Loans,2011,1,"2,732",Commercial Lenders
+Total Loans,2011,2,"2,760",Commercial Lenders
+Total Loans,2011,3,"2,745",Commercial Lenders
+Total Loans,2011,4,"2,713",Commercial Lenders
+Total Loans,2012,1,"2,672",Commercial Lenders
+Total Loans,2012,2,"2,766",Commercial Lenders
+Total Loans,2012,3,"2,751",Commercial Lenders
+Total Loans,2012,4,"2,901",Commercial Lenders
+Total Loans,2013,1,"2,827",Commercial Lenders
+Total Loans,2013,2,"3,117",Commercial Lenders
+Total Loans,2013,3,"3,217",Commercial Lenders
+Total Loans,2013,4,"3,318",Commercial Lenders
+Total Loans,2014,1,"3,363",Commercial Lenders
+Total Loans,2014,2,"3,444",Commercial Lenders
+Total Loans,2014,3,"3,532",Commercial Lenders
+Total Loans,2014,4,"3,344",Commercial Lenders
+Total Loans,2015,1,"3,369",Commercial Lenders
+Total Loans,2015,2,"3,527",Commercial Lenders
+Total Loans,2015,3,"3,767",Commercial Lenders
+Total Loans,2015,4,"4,000",Commercial Lenders
+Total Loans,2016,1,"3,937",Commercial Lenders
+Total Loans,2016,2,"4,140",Commercial Lenders
+Total Loans,2016,3,"3,946",Commercial Lenders
+Total Loans,2016,4,"3,929",Commercial Lenders
+Total Loans,2017,1,"3,981",Commercial Lenders
+Total Loans,2017,2,"4,136",Commercial Lenders
+Bank Net Income (QTR),2009,3,0.583,Mortgage Lenders
+Bank Net Income (QTR),2009,4,1.349,Mortgage Lenders
+Bank Net Income (QTR),2010,1,1.525,Mortgage Lenders
+Bank Net Income (QTR),2010,2,1.287,Mortgage Lenders
+Bank Net Income (QTR),2010,3,1.4,Mortgage Lenders
+Bank Net Income (QTR),2010,4,1.219,Mortgage Lenders
+Bank Net Income (QTR),2011,1,0.984,Mortgage Lenders
+Bank Net Income (QTR),2011,2,1.087,Mortgage Lenders
+Bank Net Income (QTR),2011,3,1.541,Mortgage Lenders
+Bank Net Income (QTR),2011,4,1.051,Mortgage Lenders
+Bank Net Income (QTR),2012,1,1.617,Mortgage Lenders
+Bank Net Income (QTR),2012,2,1.751,Mortgage Lenders
+Bank Net Income (QTR),2012,3,1.531,Mortgage Lenders
+Bank Net Income (QTR),2012,4,1.349,Mortgage Lenders
+Bank Net Income (QTR),2013,1,1.334,Mortgage Lenders
+Bank Net Income (QTR),2013,2,1.483,Mortgage Lenders
+Bank Net Income (QTR),2013,3,1.287,Mortgage Lenders
+Bank Net Income (QTR),2013,4,1.168,Mortgage Lenders
+Bank Net Income (QTR),2014,1,1.201,Mortgage Lenders
+Bank Net Income (QTR),2014,2,0.995,Mortgage Lenders
+Bank Net Income (QTR),2014,3,0.921,Mortgage Lenders
+Bank Net Income (QTR),2014,4,0.997,Mortgage Lenders
+Bank Net Income (QTR),2015,1,0.858,Mortgage Lenders
+Bank Net Income (QTR),2015,2,1.027,Mortgage Lenders
+Bank Net Income (QTR),2015,3,0.599,Mortgage Lenders
+Bank Net Income (QTR),2015,4,0.845,Mortgage Lenders
+Bank Net Income (QTR),2016,1,0.968,Mortgage Lenders
+Bank Net Income (QTR),2016,2,0.934,Mortgage Lenders
+Bank Net Income (QTR),2016,3,0.994,Mortgage Lenders
+Bank Net Income (QTR),2016,4,0.833,Mortgage Lenders
+Bank Net Income (QTR),2017,1,0.758,Mortgage Lenders
+Bank Net Income (QTR),2017,2,0.826,Mortgage Lenders
+Domestic Deposits,2009,3,509,Mortgage Lenders
+Domestic Deposits,2009,4,527,Mortgage Lenders
+Domestic Deposits,2010,1,512,Mortgage Lenders
+Domestic Deposits,2010,2,529,Mortgage Lenders
+Domestic Deposits,2010,3,539,Mortgage Lenders
+Domestic Deposits,2010,4,543,Mortgage Lenders
+Domestic Deposits,2011,1,569,Mortgage Lenders
+Domestic Deposits,2011,2,559,Mortgage Lenders
+Domestic Deposits,2011,3,580,Mortgage Lenders
+Domestic Deposits,2011,4,608,Mortgage Lenders
+Domestic Deposits,2012,1,623,Mortgage Lenders
+Domestic Deposits,2012,2,636,Mortgage Lenders
+Domestic Deposits,2012,3,642,Mortgage Lenders
+Domestic Deposits,2012,4,481,Mortgage Lenders
+Domestic Deposits,2013,1,421,Mortgage Lenders
+Domestic Deposits,2013,2,419,Mortgage Lenders
+Domestic Deposits,2013,3,412,Mortgage Lenders
+Domestic Deposits,2013,4,362,Mortgage Lenders
+Domestic Deposits,2014,1,431,Mortgage Lenders
+Domestic Deposits,2014,2,340,Mortgage Lenders
+Domestic Deposits,2014,3,321,Mortgage Lenders
+Domestic Deposits,2014,4,328,Mortgage Lenders
+Domestic Deposits,2015,1,342,Mortgage Lenders
+Domestic Deposits,2015,2,337,Mortgage Lenders
+Domestic Deposits,2015,3,317,Mortgage Lenders
+Domestic Deposits,2015,4,306,Mortgage Lenders
+Domestic Deposits,2016,1,323,Mortgage Lenders
+Domestic Deposits,2016,2,315,Mortgage Lenders
+Domestic Deposits,2016,3,310,Mortgage Lenders
+Domestic Deposits,2016,4,263,Mortgage Lenders
+Domestic Deposits,2017,1,269,Mortgage Lenders
+Domestic Deposits,2017,2,283,Mortgage Lenders
+Total Assets ,2009,3,852,Mortgage Lenders
+Total Assets ,2009,4,809,Mortgage Lenders
+Total Assets ,2010,1,777,Mortgage Lenders
+Total Assets ,2010,2,795,Mortgage Lenders
+Total Assets ,2010,3,789,Mortgage Lenders
+Total Assets ,2010,4,789,Mortgage Lenders
+Total Assets ,2011,1,799,Mortgage Lenders
+Total Assets ,2011,2,777,Mortgage Lenders
+Total Assets ,2011,3,800,Mortgage Lenders
+Total Assets ,2011,4,829,Mortgage Lenders
+Total Assets ,2012,1,811,Mortgage Lenders
+Total Assets ,2012,2,825,Mortgage Lenders
+Total Assets ,2012,3,822,Mortgage Lenders
+Total Assets ,2012,4,628,Mortgage Lenders
+Total Assets ,2013,1,566,Mortgage Lenders
+Total Assets ,2013,2,562,Mortgage Lenders
+Total Assets ,2013,3,554,Mortgage Lenders
+Total Assets ,2013,4,487,Mortgage Lenders
+Total Assets ,2014,1,576,Mortgage Lenders
+Total Assets ,2014,2,459,Mortgage Lenders
+Total Assets ,2014,3,435,Mortgage Lenders
+Total Assets ,2014,4,440,Mortgage Lenders
+Total Assets ,2015,1,462,Mortgage Lenders
+Total Assets ,2015,2,445,Mortgage Lenders
+Total Assets ,2015,3,416,Mortgage Lenders
+Total Assets ,2015,4,386,Mortgage Lenders
+Total Assets ,2016,1,405,Mortgage Lenders
+Total Assets ,2016,2,397,Mortgage Lenders
+Total Assets ,2016,3,387,Mortgage Lenders
+Total Assets ,2016,4,331,Mortgage Lenders
+Total Assets ,2017,1,339,Mortgage Lenders
+Total Assets ,2017,2,359,Mortgage Lenders
+Total Loans,2009,3,547,Mortgage Lenders
+Total Loans,2009,4,485,Mortgage Lenders
+Total Loans,2010,1,464,Mortgage Lenders
+Total Loans,2010,2,470,Mortgage Lenders
+Total Loans,2010,3,466,Mortgage Lenders
+Total Loans,2010,4,467,Mortgage Lenders
+Total Loans,2011,1,455,Mortgage Lenders
+Total Loans,2011,2,446,Mortgage Lenders
+Total Loans,2011,3,452,Mortgage Lenders
+Total Loans,2011,4,482,Mortgage Lenders
+Total Loans,2012,1,446,Mortgage Lenders
+Total Loans,2012,2,454,Mortgage Lenders
+Total Loans,2012,3,443,Mortgage Lenders
+Total Loans,2012,4,379,Mortgage Lenders
+Total Loans,2013,1,352,Mortgage Lenders
+Total Loans,2013,2,340,Mortgage Lenders
+Total Loans,2013,3,336,Mortgage Lenders
+Total Loans,2013,4,297,Mortgage Lenders
+Total Loans,2014,1,340,Mortgage Lenders
+Total Loans,2014,2,274,Mortgage Lenders
+Total Loans,2014,3,271,Mortgage Lenders
+Total Loans,2014,4,274,Mortgage Lenders
+Total Loans,2015,1,280,Mortgage Lenders
+Total Loans,2015,2,276,Mortgage Lenders
+Total Loans,2015,3,261,Mortgage Lenders
+Total Loans,2015,4,244,Mortgage Lenders
+Total Loans,2016,1,253,Mortgage Lenders
+Total Loans,2016,2,248,Mortgage Lenders
+Total Loans,2016,3,242,Mortgage Lenders
+Total Loans,2016,4,209,Mortgage Lenders
+Total Loans,2017,1,208,Mortgage Lenders
+Total Loans,2017,2,213,Mortgage Lenders
+Bank Net Income (QTR),2009,3,0.048,Consumer Lenders
+Bank Net Income (QTR),2009,4,0.223,Consumer Lenders
+Bank Net Income (QTR),2010,1,0.331,Consumer Lenders
+Bank Net Income (QTR),2010,2,0.304,Consumer Lenders
+Bank Net Income (QTR),2010,3,0.415,Consumer Lenders
+Bank Net Income (QTR),2010,4,0.416,Consumer Lenders
+Bank Net Income (QTR),2011,1,0.387,Consumer Lenders
+Bank Net Income (QTR),2011,2,0.408,Consumer Lenders
+Bank Net Income (QTR),2011,3,0.507,Consumer Lenders
+Bank Net Income (QTR),2011,4,0.338,Consumer Lenders
+Bank Net Income (QTR),2012,1,0.43,Consumer Lenders
+Bank Net Income (QTR),2012,2,0.441,Consumer Lenders
+Bank Net Income (QTR),2012,3,0.48,Consumer Lenders
+Bank Net Income (QTR),2012,4,0.296,Consumer Lenders
+Bank Net Income (QTR),2013,1,0.388,Consumer Lenders
+Bank Net Income (QTR),2013,2,0.436,Consumer Lenders
+Bank Net Income (QTR),2013,3,0.393,Consumer Lenders
+Bank Net Income (QTR),2013,4,0.366,Consumer Lenders
+Bank Net Income (QTR),2014,1,0.415,Consumer Lenders
+Bank Net Income (QTR),2014,2,0.571,Consumer Lenders
+Bank Net Income (QTR),2014,3,0.494,Consumer Lenders
+Bank Net Income (QTR),2014,4,0.403,Consumer Lenders
+Bank Net Income (QTR),2015,1,0.459,Consumer Lenders
+Bank Net Income (QTR),2015,2,0.547,Consumer Lenders
+Bank Net Income (QTR),2015,3,0.49,Consumer Lenders
+Bank Net Income (QTR),2015,4,0.384,Consumer Lenders
+Bank Net Income (QTR),2016,1,0.509,Consumer Lenders
+Bank Net Income (QTR),2016,2,0.483,Consumer Lenders
+Bank Net Income (QTR),2016,3,0.519,Consumer Lenders
+Bank Net Income (QTR),2016,4,0.508,Consumer Lenders
+Bank Net Income (QTR),2017,1,0.692,Consumer Lenders
+Bank Net Income (QTR),2017,2,0.732,Consumer Lenders
+Domestic Deposits,2009,3,77,Consumer Lenders
+Domestic Deposits,2009,4,77,Consumer Lenders
+Domestic Deposits,2010,1,78,Consumer Lenders
+Domestic Deposits,2010,2,80,Consumer Lenders
+Domestic Deposits,2010,3,86,Consumer Lenders
+Domestic Deposits,2010,4,91,Consumer Lenders
+Domestic Deposits,2011,1,96,Consumer Lenders
+Domestic Deposits,2011,2,83,Consumer Lenders
+Domestic Deposits,2011,3,85,Consumer Lenders
+Domestic Deposits,2011,4,83,Consumer Lenders
+Domestic Deposits,2012,1,85,Consumer Lenders
+Domestic Deposits,2012,2,83,Consumer Lenders
+Domestic Deposits,2012,3,96,Consumer Lenders
+Domestic Deposits,2012,4,84,Consumer Lenders
+Domestic Deposits,2013,1,89,Consumer Lenders
+Domestic Deposits,2013,2,87,Consumer Lenders
+Domestic Deposits,2013,3,127,Consumer Lenders
+Domestic Deposits,2013,4,137,Consumer Lenders
+Domestic Deposits,2014,1,139,Consumer Lenders
+Domestic Deposits,2014,2,175,Consumer Lenders
+Domestic Deposits,2014,3,140,Consumer Lenders
+Domestic Deposits,2014,4,148,Consumer Lenders
+Domestic Deposits,2015,1,154,Consumer Lenders
+Domestic Deposits,2015,2,150,Consumer Lenders
+Domestic Deposits,2015,3,154,Consumer Lenders
+Domestic Deposits,2015,4,157,Consumer Lenders
+Domestic Deposits,2016,1,163,Consumer Lenders
+Domestic Deposits,2016,2,169,Consumer Lenders
+Domestic Deposits,2016,3,172,Consumer Lenders
+Domestic Deposits,2016,4,215,Consumer Lenders
+Domestic Deposits,2017,1,217,Consumer Lenders
+Domestic Deposits,2017,2,218,Consumer Lenders
+Total Assets ,2009,3,96,Consumer Lenders
+Total Assets ,2009,4,96,Consumer Lenders
+Total Assets ,2010,1,95,Consumer Lenders
+Total Assets ,2010,2,97,Consumer Lenders
+Total Assets ,2010,3,104,Consumer Lenders
+Total Assets ,2010,4,114,Consumer Lenders
+Total Assets ,2011,1,118,Consumer Lenders
+Total Assets ,2011,2,98,Consumer Lenders
+Total Assets ,2011,3,99,Consumer Lenders
+Total Assets ,2011,4,97,Consumer Lenders
+Total Assets ,2012,1,98,Consumer Lenders
+Total Assets ,2012,2,97,Consumer Lenders
+Total Assets ,2012,3,117,Consumer Lenders
+Total Assets ,2012,4,102,Consumer Lenders
+Total Assets ,2013,1,106,Consumer Lenders
+Total Assets ,2013,2,104,Consumer Lenders
+Total Assets ,2013,3,149,Consumer Lenders
+Total Assets ,2013,4,162,Consumer Lenders
+Total Assets ,2014,1,164,Consumer Lenders
+Total Assets ,2014,2,213,Consumer Lenders
+Total Assets ,2014,3,168,Consumer Lenders
+Total Assets ,2014,4,176,Consumer Lenders
+Total Assets ,2015,1,182,Consumer Lenders
+Total Assets ,2015,2,178,Consumer Lenders
+Total Assets ,2015,3,185,Consumer Lenders
+Total Assets ,2015,4,187,Consumer Lenders
+Total Assets ,2016,1,193,Consumer Lenders
+Total Assets ,2016,2,201,Consumer Lenders
+Total Assets ,2016,3,205,Consumer Lenders
+Total Assets ,2016,4,256,Consumer Lenders
+Total Assets ,2017,1,258,Consumer Lenders
+Total Assets ,2017,2,262,Consumer Lenders
+Total Loans,2009,3,76,Consumer Lenders
+Total Loans,2009,4,76,Consumer Lenders
+Total Loans,2010,1,72,Consumer Lenders
+Total Loans,2010,2,73,Consumer Lenders
+Total Loans,2010,3,77,Consumer Lenders
+Total Loans,2010,4,87,Consumer Lenders
+Total Loans,2011,1,86,Consumer Lenders
+Total Loans,2011,2,70,Consumer Lenders
+Total Loans,2011,3,71,Consumer Lenders
+Total Loans,2011,4,71,Consumer Lenders
+Total Loans,2012,1,70,Consumer Lenders
+Total Loans,2012,2,69,Consumer Lenders
+Total Loans,2012,3,81,Consumer Lenders
+Total Loans,2012,4,71,Consumer Lenders
+Total Loans,2013,1,71,Consumer Lenders
+Total Loans,2013,2,71,Consumer Lenders
+Total Loans,2013,3,103,Consumer Lenders
+Total Loans,2013,4,111,Consumer Lenders
+Total Loans,2014,1,111,Consumer Lenders
+Total Loans,2014,2,153,Consumer Lenders
+Total Loans,2014,3,119,Consumer Lenders
+Total Loans,2014,4,125,Consumer Lenders
+Total Loans,2015,1,129,Consumer Lenders
+Total Loans,2015,2,132,Consumer Lenders
+Total Loans,2015,3,136,Consumer Lenders
+Total Loans,2015,4,137,Consumer Lenders
+Total Loans,2016,1,136,Consumer Lenders
+Total Loans,2016,2,145,Consumer Lenders
+Total Loans,2016,3,144,Consumer Lenders
+Total Loans,2016,4,180,Consumer Lenders
+Total Loans,2017,1,181,Consumer Lenders
+Total Loans,2017,2,187,Consumer Lenders
