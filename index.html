@@ -16,7 +16,7 @@
 	
 	    <div id="institution-chart">
 		<strong></strong>	
-        <a class="reset" href="javascript:institutionChart.filterAll();dc.redrawAll();" style="display: none;">reset</a>
+        <a class="reset" href="javascript:InstitutionChart.filterAll();dc.redrawAll();" style="display: none;">reset</a>
         <div class="clearfix"></div>
     </div>
 	
@@ -30,7 +30,7 @@
 
     <div id="value-chart">
         <strong>$ In Billions</strong>
-        <a class="reset" href="javascript:valueChart.filterAll();dc.redrawAll();" style="display: none;">reset</a>
+        <a class="reset" href="javascript:ValueChart.filterAll();dc.redrawAll();" style="display: none;">reset</a>
         <div class="clearfix"></div>
     </div>
     <div>
@@ -1196,7 +1196,7 @@ var data = [{"category":"Bank Net Income (QTR)","year":2009,"quarter":3,"value":
 
 
     // var numberFormat = d3.format(".2f");
-	var institutionChart = dc.pieChart("#institution-chart");
+	var InstitutionChart = dc.pieChart("#institution-chart");
 	var CategoryChart = dc.pieChart("#category-chart");
 	var ValueChart  = dc.barChart("#value-chart");
 	
@@ -1222,7 +1222,7 @@ var data = [{"category":"Bank Net Income (QTR)","year":2009,"quarter":3,"value":
 		.legend(dc.legend())
 		.renderLabel(true);
 
-	institutionChart
+	InstitutionChart
 		.width(500)
 		.height(400)
 		.radius(150)
