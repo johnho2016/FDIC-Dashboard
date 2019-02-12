@@ -1225,8 +1225,8 @@ var data = [{"category":"Bank Net Income (QTR)","year":2009,"quarter":3,"value":
 	var time_value = time.group().reduceSum(function(d) {return +d.value.toFixed(2);});
 	
 	CategoryChart          
-		.width(400)
-		.height(400)
+		.width(300)
+		.height(300)
 		.radius(150)
 		.innerRadius(50)
 		.dimension(category)
@@ -1235,8 +1235,8 @@ var data = [{"category":"Bank Net Income (QTR)","year":2009,"quarter":3,"value":
 		.renderLabel(true);
 
 	InstitutionChart
-		.width(500)
-		.height(400)
+		.width(300)
+		.height(300)
 		.radius(150)
 		.innerRadius(50)
 		.dimension(institution)
